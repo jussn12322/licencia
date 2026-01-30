@@ -19,7 +19,7 @@ Al utilizar LicenciaRD, usted acepta las prácticas descritas en esta política.
 ## 2. Responsable del Tratamiento de Datos
 
 **Nombre:** LicenciaRD
-**Correo electrónico:** contacto@licenciard.com
+**Correo electrónico:** licenciard@outlook.com
 **Jurisdicción:** República Dominicana
 
 ---
@@ -154,7 +154,7 @@ De conformidad con la **Ley 172-13** de República Dominicana y normas internaci
 ### 8.2 Cómo Ejercer sus Derechos
 Para ejercer cualquiera de estos derechos:
 
-1. Envíe un correo a **contacto@licenciard.com** con el asunto "Solicitud ARCO"
+1. Envíe un correo a **licenciard@outlook.com** con el asunto "Solicitud ARCO"
 2. Incluya:
    - Nombre completo
    - Correo electrónico registrado
@@ -178,7 +178,7 @@ LicenciaRD está diseñada para usuarios mayores de **13 años**.
 
 - **No recopilamos intencionalmente** información de menores de 13 años
 - Si descubrimos que un menor proporcionó datos sin consentimiento parental, eliminaremos la información inmediatamente
-- Los padres/tutores pueden contactarnos a contacto@licenciard.com para solicitar la eliminación de datos de menores
+- Los padres/tutores pueden contactarnos a licenciard@outlook.com para solicitar la eliminación de datos de menores
 
 ---
 
@@ -223,14 +223,45 @@ Le recomendamos revisar esta política periódicamente. El uso continuado tras l
 
 ---
 
-## 13. Descargo de Responsabilidad
+## 13. Descargo de Responsabilidad y Fuentes de Información
 
-**LicenciaRD es una aplicación educativa independiente y NO está afiliada, respaldada ni representa a:**
-- Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)
-- Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT)
-- Gobierno de la República Dominicana
+### 13.1 Independencia y No Afiliación
 
-El contenido se basa en información pública de las leyes de tránsito dominicanas, pero la aplicación no garantiza aprobación en exámenes oficiales.
+**IMPORTANTE:** LicenciaRD es una aplicación educativa **independiente desarrollada por terceros** y **NO está afiliada, asociada, autorizada, avalada ni conectada oficialmente** con:
+
+- **Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)**
+- **Dirección General de Seguridad de Tránsito y Transporte Terrestre (DIGESETT)**
+- **Ninguna otra entidad gubernamental de la República Dominicana**
+
+Esta aplicación es un proyecto privado con **fines exclusivamente educativos** y de preparación personal.
+
+### 13.2 Fuentes de Información Oficial
+
+Toda la información pública utilizada en esta aplicación para fines educativos (banco de preguntas, señales de tránsito y normativas) ha sido consultada y recopilada de los portales de **libre acceso** de las siguientes entidades oficiales, vigentes según la Ley 63-17:
+
+📋 **Fuentes consultadas:**
+
+- **Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)**
+  🌐 https://www.intrant.gob.do
+
+- **Dirección General de Seguridad de Tránsito (DIGESETT)**
+  🌐 https://www.digesett.gob.do
+
+- **Ley 63-17 de Movilidad, Transporte Terrestre, Tránsito y Seguridad Vial**
+  🌐 https://www.intrant.gob.do/transparencia/index.php/base-legal/leyes
+
+### 13.3 Limitaciones de Responsabilidad
+
+El desarrollador de LicenciaRD:
+
+❌ **NO garantiza** la aprobación del examen oficial de licencia de conducir
+❌ **NO se responsabiliza** por cambios en la legislación que no se hayan actualizado en la app
+❌ **NO representa** oficialmente a ninguna institución gubernamental
+❌ **NO sustituye** la formación oficial impartida por centros autorizados por INTRANT
+
+✅ **El uso de esta aplicación es exclusivamente para fines de estudio y preparación personal**
+
+Para información oficial actualizada, consulte directamente los portales de INTRANT y DIGESETT.
 
 ---
 
@@ -238,7 +269,7 @@ El contenido se basa en información pública de las leyes de tránsito dominica
 
 Para preguntas, inquietudes o ejercicio de derechos relacionados con esta Política de Privacidad:
 
-**Correo electrónico:** contacto@licenciard.com
+**Correo electrónico:** licenciard@outlook.com
 **Asunto recomendado:** "Privacidad - [Tu consulta]"
 **Tiempo de respuesta:** 5-7 días hábiles
 

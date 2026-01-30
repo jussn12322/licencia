@@ -92,10 +92,21 @@ Usted reconoce expresamente que:
 - Obtener la licencia oficial requerida antes de conducir
 - Mantenerse actualizado sobre cambios en leyes de tránsito
 
-### 3.4 Contenido Educativo
+### 3.4 Contenido Educativo y Fuentes Oficiales
 
-El contenido se basa en información pública de las leyes dominicanas, incluyendo:
-- Ley 63-17 de Movilidad, Transporte Terrestre, Tránsito y Seguridad Vial
+El contenido se basa en información pública de las leyes dominicanas, recopilada de los siguientes portales oficiales de **libre acceso**:
+
+📋 **Fuentes consultadas:**
+
+- **Instituto Nacional de Tránsito y Transporte Terrestre (INTRANT)**
+  🌐 https://www.intrant.gob.do
+
+- **Dirección General de Seguridad de Tránsito (DIGESETT)**
+  🌐 https://www.digesett.gob.do
+
+- **Ley 63-17 de Movilidad, Transporte Terrestre, Tránsito y Seguridad Vial**
+  🌐 https://www.intrant.gob.do/transparencia/index.php/base-legal/leyes
+
 - Reglamentos del INTRANT
 - Señalización internacional normalizada
 
@@ -103,7 +114,7 @@ El contenido se basa en información pública de las leyes dominicanas, incluyen
 - Podemos cometer errores u omisiones involuntarias
 - Las leyes pueden cambiar sin que actualicemos inmediatamente el contenido
 - No garantizamos exactitud, integridad ni vigencia del 100% del contenido
-- Es su responsabilidad verificar información crítica con fuentes oficiales
+- Es su responsabilidad verificar información crítica con las **fuentes oficiales** listadas arriba
 
 ---
 
@@ -375,12 +386,12 @@ El contenido legal se basa en normativas públicas de República Dominicana. Agr
 
 Para cuestiones relacionadas con estos Términos y Condiciones:
 
-**Correo electrónico:** contacto@licenciard.com
+**Correo electrónico:** licenciard@outlook.com
 **Asunto:** "Términos y Condiciones - [Su consulta]"
 **Tiempo de respuesta:** 7-10 días hábiles
 
 ### Reportar Violaciones
-Si detecta violaciones de estos términos, repórtelas a: abuse@licenciard.com
+Si detecta violaciones de estos términos, repórtelas a: licenciard@outlook.com
 
 ---
 
